@@ -8,10 +8,10 @@ In the original state all the places in the board are empty denoted by 0 in each
 As the game proceeds the player has to choose a column from 0 to size of board - 1 and put his piece there . If its a valid move then AI also places its piece. The game continues till any of the 2 players get 4 of his pieces in a row horizontally, vertically or diagonally.
 ![alt text](https://github.com/imajit/connect-4-AI/blob/master/win_state.png)<br/><br/>
 <b>Features </b><br/>
-1. Terminal based game - works completely on terminal <br/>
-2. Depth 4 Minimax tree is generated to find next best move<br/>
-3. Algorithm is optomized by alpha-beta prunning <br/><br/>
+ Terminal based game - works completely on terminal <br/>
+ Depth 4 Minimax tree is generated to find next best move<br/>
+ Algorithm is optomized by alpha-beta prunning <br/><br/>
 <b>Future Advancements</b><br/>
-1. Gui can be added to make game more interesting.<br/>
-2. Depth of tree can be increased to get better results.<br/>
-3. Better and more detailed scoring can improve the results.<br/>
+ Gui can be added to make game more interesting.<br/>
+ Depth of tree can be increased to get better results.<br/>
+ Better and more detailed scoring can improve the results.<br/>
