@@ -10,7 +10,7 @@ As the game proceeds the player has to choose a column from 0 to size of board -
 <b>Features </b><br/>
 1. Terminal based game - works completely on terminal <br/>
 2. Depth 4 Minimax tree is generated to find next best move<br/>
-3. Algorithm is optomized by alpha-beta prunning <br/>
+3. Algorithm is optomized by alpha-beta prunning <br/><br/>
 <b>Future Advancements</b><br/>
 1. Gui can be added to make game more interesting.<br/>
 2. Depth of tree can be increased to get better results.<br/>
